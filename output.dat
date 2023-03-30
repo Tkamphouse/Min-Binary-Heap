@@ -1,0 +1,22 @@
+# All times in milliseconds (msec)
+# Column 1 = input data size
+# Column 2 = bst map insert shuffled
+# Column 3 = avl map insert shuffled
+# Column 4 = min heap map insert shuffled
+# Column 5 = bst map erase shuffled
+# Column 6 = avl map erase shuffled
+# Column 7 = min heap map erase shuffled
+# Column 8 = bst map sorted keys shuffled
+# Column 9 = avl map sorted keys shuffled
+# Column 10 = min heap map sorted keys shuffled
+0 0.02 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+15000 0.00 0.00 0.00 0.00 0.00 0.00 1.55 1.50 54.06
+30000 0.00 0.00 0.00 0.01 0.00 0.00 3.21 3.20 121.51
+45000 0.00 0.00 0.00 0.01 0.00 0.01 5.12 7.01 181.71
+60000 0.01 0.00 0.00 0.01 0.00 0.01 7.46 8.25 260.20
+75000 0.02 0.00 0.00 0.01 0.00 0.01 10.56 11.42 320.61
+90000 0.02 0.00 0.00 0.01 0.00 0.01 14.69 15.27 420.88
+105000 0.06 0.00 0.00 0.02 0.00 0.01 17.63 18.79 503.28
+120000 0.02 0.00 0.00 0.01 0.00 0.01 20.27 19.79 545.67
+135000 0.04 0.00 0.00 0.02 0.00 0.01 22.23 22.76 605.38
+150000 0.11 0.00 0.00 0.07 0.00 0.03 24.19 24.78 689.16
